@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### Build
+
+- *(app)* Release
+
+## [0.0.1] - 2024-05-12
+
 ### 🚀 Features
 
 - *(app)* Добавить файл для тестирования
